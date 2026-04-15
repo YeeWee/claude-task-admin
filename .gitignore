@@ -38,3 +38,7 @@ coverage/
 tmp/
 temp/
 *.tmp
+
+# Reference docs (Claude Code architecture)
+book/
+wiki/
